@@ -33,7 +33,7 @@ Clone the repository and catkin_make:
 
 ## 4. Rosbag Example
 ### 4.1. **Horizon-Horizon Calibration Example**
-Download [Our recorded rosbag](,,,) and then
+Download [Our recorded rosbag](https://terra-1-g.djicdn.com/65c028cd298f4669a7f0e40e50ba1131/demo/h_h.bag) and then
 ```
 roslaunch loam_horizon loam_calib_hh.launch
 rosbag play h_h.bag
@@ -42,7 +42,7 @@ After calculation, result will be saved in /tmp/mlcalib_1_TIMESTAMP.txt
 
 
 ### 4.2. **Horizon-Tele Calibration Example**
-Download [Our recorded rosbag](,,,) and then
+Download [Our recorded rosbag](https://terra-1-g.djicdn.com/65c028cd298f4669a7f0e40e50ba1131/demo/h_t.bag) and then
 ```
 roslaunch loam_horizon loam_calib_ht.launch
 rosbag play h_t.bag
