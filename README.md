@@ -1,5 +1,6 @@
 
-<font color="#660000"> <font size="10"> Note: This repository is no longer maintained，please use the new version https://github.com/Livox-SDK/Livox_automatic_calibration </font><br /> 
+# Note: This repository is no longer maintained，please use the new version https://github.com/Livox-SDK/Livox_automatic_calibration  
+
 # LOAM-Horizon Calibration
 ## Horizon-Horizon / Horizon-Tele Extrinsic Calibration based on LOAM-Horizon
 
